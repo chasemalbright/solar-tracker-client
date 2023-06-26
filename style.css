@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+}
+body {
+    background-color: #F5F5F4;
+    text-align: center;
+    font-family: monospace;
+    align-items: center; /* Vertically center the div */
+    height: 100vh; /* Set the height of the body to the full viewport height */
+    margin: 0; /* Remove default margin */
+}
+.icon-panel {
+    height: 45px;
+    width: auto;
+}
+.title {
+    padding: 30px;
+    padding-top: 60px;
+}
+
+.container-1 {
+    width: 50%;
+    display: flex;
+    justify-content: center; /* Horizontally center the div */
+    align-items: center; /* Vertically center the div */
+    margin: auto;
+    padding-top: 40px;
+  }
+.coords {
+    padding-left: 10px;
+}
+  
+
+.icon-pin {
+    
+    height: 20px;
+    width: auto;
+}
+.label {
+    padding: 60px;
+    color: #584e4e;
+}
+.output {
+    padding: 25px;
+    color: #584e4e;
+}
+
+.perc {
+    padding-top: 25px;
+}
+
+.output-2 {
+    padding: 25px;
+    /* color: #bf1029; */
+    /* color: #3f8f29; */
+}
