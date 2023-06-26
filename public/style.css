@@ -19,7 +19,7 @@ body {
 }
 
 .container-1 {
-    width: 50%;
+    width: 70%;
     display: flex;
     justify-content: center; /* Horizontally center the div */
     align-items: center; /* Vertically center the div */
