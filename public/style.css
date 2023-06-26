@@ -54,3 +54,9 @@ body {
     /* color: #bf1029; */
     /* color: #3f8f29; */
 }
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: #eab115;
+  }
