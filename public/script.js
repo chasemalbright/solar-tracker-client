@@ -11,7 +11,7 @@ function changeHeadingColor(value) {
   }
 
 function updateDynamicContent() {
-    fetch('https://633f-2607-fb90-8a34-d059-e83b-5c3a-2ad3-9ff.ngrok-free.app')
+    fetch('https://8b63-47-218-217-53.ngrok-free.app')
     .then(response => response.text())
     .then(data => {
       console.log(parseFloat(data.toString()));
