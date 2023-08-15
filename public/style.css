@@ -34,6 +34,15 @@ body {
     margin: auto;
     padding-top: 10px;
   }
+  .container-3 {
+    width: 70%;
+    display: flex;
+    justify-content: center; /* Horizontally center the div */
+    align-items: center; /* Vertically center the div */
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
 .coords {
     padding-left: 10px;
 }
@@ -68,3 +77,12 @@ a {
 a:visited {
     color: #eab115;
   }
+  .title-2 {
+    padding: 10px;
+    padding-top: 60px;
+}
+.diagram {
+    width: 80%;
+    height: auto;
+    padding-top: 20px;
+}
